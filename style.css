@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(78, 35, 83);
+}
+h1 {
+    text-align: center;
+}
+.text img {
+    max-width: 100%;
+}
+.text_1 {
+    width: 30%;
+    height: 200px;
+    background-color: rgb(56, 0, 44);
+    overflow: auto;
+}
+.fa-child {
+    color: blueviolet;
+    font-size: 50px;
+}
+.boy{
+    width: 100%;
+}
+.girls{
+    width: 25%;
+}
